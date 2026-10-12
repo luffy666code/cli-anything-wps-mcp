@@ -1,0 +1,2 @@
+# Runtime required only for Windows WPS COM export:
+pywin32>=305; platform_system == "Windows"
